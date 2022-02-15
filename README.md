@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander, and I want to be a testing engineer.
 - 👀 I’m interested in music, cars and testing software.
-- 🌱 I’m currently learning basics of testing and taking QA Engineer course by Vadim Ksendzov.
+- 🌱 I’m currently learn basics of testing and take QA Engineer course by Vadim Ksendzov.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: alexander.filichenok@yandex.by
 
